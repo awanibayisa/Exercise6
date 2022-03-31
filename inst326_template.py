@@ -25,6 +25,7 @@ def main(parameter1, parameter2):
     #Note that this function does not do anything.
     #You would insert functional code here.
     #Instead we will use the pass keyword to avoid doing that.
+    
     pass
 
 def parse_args(args_list):
